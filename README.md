@@ -1,4 +1,5 @@
-# testProject
+# AngularJs: Up & Running Workshop - Part II
 
-a [Sails](http://sailsjs.org) application
-# angularworkshop2-backend
+## Sails application
+
+This project includes basic endpoint `testtable` which suppors GET, PUT, POST, DELETE
